@@ -1,6 +1,6 @@
-# Hi I'm Roge 👋
+# Hi there 👋
 
-I'm a Fractional CMO who blends the strategic mindset of an MBA with the technical acumen of a CTO. My passion lies in driving digital transformation and growth through data-driven marketing strategies.
+I’m Roger M. Fractional CMO and CRO with 15+ years of leadership, $15M+ monthly ad spend managed, 3,000+ campaigns launched, and $500M–$1.8B in ARR impact. I bridge strategy and execution, aligning GTM, omnichannel, RevOps, and AI automation into one growth engine that accelerates acquisition, retention, and revenue.
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,8 +19,8 @@ I'm a Fractional CMO who blends the strategic mindset of an MBA with the technic
 
 - 💻 Owner of [**PPC12x.Agency**](https://github.com/PPC12x-Agency) github organization.
 - 🔭 I’m currently working on something cool 😉
-- 🤔 I’m currently reading [Designing Machine Learning Systems by O'Reilly]
-- 🌱 I also teach PPC Masterclass and Freelance Bootcamp.
+- 🤔 I’m currently reading [Machine Learning and Generative AI by Yoon Hwang and Nicholas Burtch]
+- 🌱 I also teach PPC (Google Ads) Masterclass.
 - 👨‍💻 Read more about me at https://www.rogemabag.com
 - 📫 How to reach me: hello@rogemabag.com
 
@@ -29,7 +29,7 @@ I'm a Fractional CMO who blends the strategic mindset of an MBA with the technic
 
 ### 🖥 Skills
 
-- Digital Marketing: PPC, Social Media Ads, Programmatic Ads, SEO, CRO & Marketing Automation.
+- Digital Marketing: PPC/ SEM, Social Media Ads, Programmatic Ads, AI Marketing Automation.
 - Data Science: Data Analysis, Data Visualization, Machine Learning, Predictive Analytics
 - Technology: Python, R, SQL, Google Analytics, Google Data Studio, Tableau, AWS, GCP, Azure
 ### ⚙️ Tech Stack
