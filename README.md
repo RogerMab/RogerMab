@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m Roger M. Fractional CMO/CRO with 15+ years of leadership, $15M+ monthly ad spend managed, 3,000+ campaigns launched, and $500M–$1.8B in ARR impact. I bridge strategy and execution, aligning GTM, omnichannel, RevOps, and AI automation into one growth engine that accelerates acquisition, retention, and revenue.
+I’m Roger M. Fractional CMO with 15+ years of leadership, $15M+ monthly ad spend managed, 3,000+ campaigns launched, and $500M–$1.8B in ARR impact. I bridge strategy and execution, aligning GTM, omnichannel, RevOps, and AI automation into one growth engine that accelerates acquisition, retention, and revenue. 
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
