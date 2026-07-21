@@ -20,8 +20,8 @@ I’m Roger M. Fractional CMO/CRO with 15+ years of leadership, $15M+ monthly ad
 - 🔭 I’m currently working on something cool 😉
 - 🤔 I’m currently reading [Machine Learning and Generative AI by Yoon Hwang and Nicholas Burtch]
 - 🌱 I also teach PPC (Google Ads) Masterclass.
-- 👨‍💻 Read more about me at https://www.rogemabag.com
-- 📫 How to reach me: hello@rogemabag.com
+- 👨‍💻 Read more about me at https://www.rogermabag.com
+- 📫 How to reach me: hi@rogermabag.com
 
 
 
